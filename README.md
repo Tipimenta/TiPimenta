@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving)
+
 ## Hi my name is Tiago Pimenta!
 <div align="left">
 <img align='left' src="https://www.cmarix.com/blog/wp-content/uploads/2019/03/Hiring.gif" width="430">
