@@ -53,7 +53,7 @@
 </div>
 </div>
 
-
+<br>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&fontSize=50&fontColor=fff&animation=twinkling&section=footer&color=0:000000,30:003e77,60:003e77,100:000000)" />
 </p>
