@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Hi%my%name%is%Tiago%Pimenta!)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Hi%20my%20name%20is%20Tiago%20Pimenta!)
 
 ## Hi my name is Tiago Pimenta!
 <div align="left">
