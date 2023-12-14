@@ -34,9 +34,8 @@
     </a>
   <br>
 </p>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <div width="100%" align="center">
   <a href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img width=33% height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a>
   <a href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img width=33% height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
