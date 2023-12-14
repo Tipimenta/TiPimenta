@@ -23,13 +23,13 @@
 <br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <p align=center>
-      <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <a href="https://github.com/tipimenta/github-readme-stats">
       <img  width=33% src="https://github-readme-stats.vercel.app/api?username=tipimenta&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
-     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+     <a href="https://github.com/denvercoder1/github-readme-stats">
       <img width=35% src="https://streak-stats.demolab.com/?user=tipimenta&theme=react&border=61dafb&hide_border=true" alt="Tiago Pimenta" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/tipimenta/github-readme-stats">
       <img width=25.2% src="https://github-readme-stats.vercel.app/api/top-langs/?username=tipimenta&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
   <br>
