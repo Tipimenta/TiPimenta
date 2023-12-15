@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&align=center&height=200&text=Hi%20my%20name%20is%20Tiago%20Pimenta!&fontSize=50&fontColor=fff&animation=twinkling&color=0:000000,30:003e77,60:003e77,100:000000)" />
+<img src="https://capsule-render.vercel.app/api?type=waving&align=center&height=200&text=welcome%20to%20my%20 github!&fontSize=50&fontColor=fff&animation=twinkling&color=0:000000,30:003e77,60:003e77,100:000000)" />
   </p>
 <br>
 <div align="center">
@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/tiago-o-pimenta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>  
 
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Languages | Frameworks | Tools | Abilities 🔥</h2>
 <div style="display: inline_block" align="center">
   <img align="center" alt="pimenta-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="pimenta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
