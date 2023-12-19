@@ -1,14 +1,18 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&align=center&height=200&text=Welcome%20to%20my%20github!&fontSize=50&fontColor=fff&animation=twinkling&color=0:000000,30:003e77,60:003e77,100:000000)" />
+<img src="https://capsule-render.vercel.app/api?type=waving&align=center&height=180&text=Welcome%20to%20my%20Github!&fontSize=60&&descAlignY=20&fontColor=fff&animation=twinkling&color=0:000000,30:003e77,60:003e77,100:000000)" />
   </p>
+<br>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Saira&weight=600&size=26&pause=1000&color=518AF7&center=true&vCenter=true&random=false&width=540&height=30&lines=+Hello+my+name+is+Tiago+Pimenta;Front-End+developer+and+UI%2FUX+Designer" alt="Typing SVG" /></a>
+</p>
 <br>
 <p align="center">
   <a href="https://github.com/Tipimenta?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Tipimenta?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/DenverCoder1?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Tipimenta?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href = "mailto:tiagopimenta.ata@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/tiago-o-pimenta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:tiagopimenta.ata@gmail.com"><img src="https://img.shields.io/badge/-Gmail-CC0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/tiago-o-pimenta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-230088?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>  
 
 <h2 align="center">🔥 Languages | Frameworks | Tools | Abilities 🔥</h2>
