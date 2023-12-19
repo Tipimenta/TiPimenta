@@ -45,20 +45,14 @@
 <br>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <div width="100%" align="center">
-  <a href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img width=32% height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img width=32% height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img width=32% height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/Tipimenta/mp-landing-page-meow-cafe" title="Meow Cafe"><img width=32% height="135px" src="https://github-readme-stats.vercel.app/api/pin/?username=tipimenta&repo=mp-landing-page-meow-cafe&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/Tipimenta/banco-digital-com-java-e-poo" title="Banco Digital"><img width=32% height="135px" src="https://github-readme-stats.vercel.app/api/pin/?username=tipimenta&repo=banco-digital-com-java-e-poo&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/Tipimenta/Rocketseat-DevLinks" title="DevLinks"><img width=32% height="135px" src="https://github-readme-stats.vercel.app/api/pin/?username=tipimenta&repo=Rocketseat-DevLinks&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <div width="100%" align="center">
-  <a href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img width=32% height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img width=32% height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img width=32% height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<div width="100%" align="center">
-  <a href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img width=32% height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img width=32% height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img width=32% height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
+  <a href="https://github.com/Tipimenta/Introducao-a-Ciencia-da-Computacao-com-Python-Parte-1" title="Introducao-a-Ciencia-da-Computacao-com-Python"><img width=32% height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=tipimenta&repo=Introducao-a-Ciencia-da-Computacao-com-Python-Parte-1&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/Tipimenta/FreeCodeCamp" title="FreeCodeCamp"><img width=32% height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Tipimenta&repo=FreeCodeCamp&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/Tipimenta/Startse-Tech-Academy" title="Startse-Tech-Academy"><img width=32% height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=tipimenta&repo=Startse-Tech-Academy&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <br>
