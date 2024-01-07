@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&align=center&height=180&text=Welcome%20to%20my%20Github!&fontSize=60&&descAlignY=20&fontColor=fff&animation=twinkling&color=0:000000,30:003e77,60:003e77,100:000000)" />
+<img src="https://capsule-render.vercel.app/api?type=waving&align=center&height=180&text=Welcome%20to%20my%20Github!&fontSize=60&&descAlignY=20&fontColor=fff&animation=twinkling&color=0:9e3295,40:0b5394,55:0b5394,75:3b00f8,96:3b00f8)" />
+
   </p>
 <br>
 <p align="center">
@@ -57,7 +58,7 @@
 
 <br>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&fontSize=50&fontColor=fff&animation=twinkling&section=footer&color=0:000000,30:003e77,60:003e77,100:000000)" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&fontSize=50&fontColor=fff&animation=twinkling&section=footer&color=100:9e3295,55:0b5394,25:3b00f8,0:3b00f8)" /> 
 </p>
  
 
