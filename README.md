@@ -35,7 +35,7 @@
       <a href="https://github.com/tipimenta/github-readme-stats">
       <img  width=33% src="https://github-readme-stats-tipimenta.vercel.app/api?username=tipimenta&show_icons=true&theme=ambient_gradient&border_color=61dafb&hide_border=false" />
     </a>
-<a href="https://git.io/streak-stats"><img  width=35% src="https://streak-stats.demolab.com?user=Tipimenta&theme=ambient-gradient" alt="Tiago Pimenta" />
+<a href="https://github.com/tipimenta/github-readme-stats"><img  width=35% src="https://streak-stats.demolab.com?user=Tipimenta&theme=ambient-gradient" alt="Tiago Pimenta" />
      </a>
     <a href="https://github.com/tipimenta/github-readme-stats">
       <img width=25.2% src="https://github-readme-stats-tipimenta.vercel.app/api/top-langs/?username=tipimenta&theme=ambient_gradient&border=61dafb&hide_border=false&text_color=&langs_count=6&layout=compact&border_color=61dafb&hide_border=false&size_weight=0.5&count_weight=0.5" />
