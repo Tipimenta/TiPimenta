@@ -13,7 +13,7 @@
   <a href="https://github.com/Tipimenta?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Tipimenta?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href = "mailto:tiagopimenta.ata@gmail.com"><img src="https://img.shields.io/badge/-Gmail-CC0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/tiago-o-pimenta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-230088?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/tipimenta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-230088?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>  
 
 <h2 align="center">🔥 Languages | Frameworks | Tools | Abilities 🔥</h2>
